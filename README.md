@@ -43,7 +43,7 @@ pip install -r requirements.txt
 ### 2️⃣ Enter your **Long-Lived Access Token**
 
 👉 Need help?  
-See: <a href="https://github.com/Butter-mit-Brot/Openhome-Sync/blub/main/README.md#-how-to-get-your-token">**[How to get your token]**</a>
+See: <a href="[https://github.com/Butter-mit-Brot/Openhome-Sync/blub/main/README.md#-how-to-get-your-token](https://github.com/Butter-mit-Brot/Openhome-Sync/tree/main?tab=readme-ov-file#-how-to-get-your-token)">**[How to get your token]**</a>
 
 <img width="442" height="50" alt="image" src="https://github.com/user-attachments/assets/d2f78fa3-a419-459b-8090-ff646a1a4a50" />
 
